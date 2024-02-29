@@ -1,8 +1,8 @@
 # proyecto
 Preguntas JSON
 
-1 Cuenta los jugadores de un  equipo
-2 cuentan los jugadores que juegan de defensa
-3 Jugadores que empiezan por "H"
-4 Pide por teclado el equipo y te muestra los jugadores de ese equipo
-5 Listame todos los equipos que hay 
+1 Listar nombre de los equipos de futbol
+2 Muestra el total de jugadores de cada equipo
+3 Pedir al usuario que diga el nombre de un jugador y te indica en que equipo juega
+4 Pedir al usuario que ingrese el nombre de un jugador y mostrar sus estadísticas, incluyendo equipo y posición
+5 Pedir al usuario que ingrese una edad y mostrar todos los jugadores que tengan esa edad o superior
